@@ -1,0 +1,2 @@
+Marc;test0;text0
+Bot1;testbot1;textbot1

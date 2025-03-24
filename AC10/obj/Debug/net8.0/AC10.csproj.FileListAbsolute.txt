@@ -8,3 +8,4 @@
 /Users/marc/Documents/Clase/Programación/3r Trimestre/AC10/AC10/obj/Debug/net8.0/AC10.dll
 /Users/marc/Documents/Clase/Programación/3r Trimestre/AC10/AC10/obj/Debug/net8.0/refint/AC10.dll
 /Users/marc/Documents/Clase/Programación/3r Trimestre/AC10/AC10/obj/Debug/net8.0/AC10.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC10/AC10/obj/Debug/net8.0/AC10.sourcelink.json
